@@ -1,0 +1,12 @@
+div.circle {
+position: relative;
+width: 20px;
+height: 20px;
+border-radius: 50%;
+text-align: center;
+}
+#timedigit{
+position: absolute; 
+top: 85px; 
+left: 133px; 
+}
